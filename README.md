@@ -2,9 +2,9 @@
 Prajwal Dhule</a></h1>
 <h3 align="center">A Meticulous Web Developer from Mumbai, India</h3>
 
-- 🌱 I work with Web dev and design technologies to create mesmerizing stuff on the internet.
+- 🌱 I work with Web development and design technologies to create mesmerizing stuff on the internet.
 
-- ❤️ I Enjoy brainstorming ideas, designing and implementing them in an eye pleasing manner and I also Love to draw .
+- ❤️ I Enjoy brainstorming ideas, designing and implementing them in an eye pleasing manner and I also love to draw .
 
 - 🌱 I’m currently exploring a bunch of web dev tehnologies to broaden my knowledge. I am also working on my portfolio site.
 
