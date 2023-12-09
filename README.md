@@ -10,9 +10,9 @@ Prajwal Dhule</a></h1>
 
 - 💬 I would love to share Web or any other tech conversations with you.
 
-- 📫 Reach me at **prajwaldhule36@gmail.com**
+- 📫 Reach me at **prajwalhere247@gmail.com**
 
-- 📄 Check out my <a href="https://github.com/PrajwalDhule/PrajwalDhule/blob/main/Resume_Prajwal_Dhule_Main_7th_June.pdf" target="blank">Resume</a>
+- 📄 Check out my <a href="https://github.com/PrajwalDhule/PrajwalDhule/blob/main/Resume_Prajwal_Dhule_Main_3rd_December.pdf" target="blank">Resume</a>
 <br/>
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
