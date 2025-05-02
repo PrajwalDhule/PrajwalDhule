@@ -2,20 +2,19 @@
 Prajwal Dhule</a></h1>
 <h3 align="center">A Meticulous Web Developer from Mumbai, India</h3>
 
-- 🌱 I work with Web development and design technologies to create mesmerizing stuff on the internet.
+- I mostly work with Full-stack Web dev technologies with a frontend focus to create mesmerizing stuff on the internet.
 
-- ❤️ I Enjoy brainstorming ideas, designing and implementing them in an eye pleasing manner.
+- I love working closely with CSS concepts.
 
-- 🌱 I’m always trying to tackle new technologies and problems beyond my expertise while also working on projects to aid people.
+- Check out my <a target="_blank" href="https://prajwaldhule.netlify.app">Portfolio</a> and <a target="_blank" href="https://prajwaldhule.vercel.app/blog">Blog</a>.
+
 
 - 🖌️ I also love to draw :)
 
 - 💬 Feel free to connect if you want to have any conversation.
 
-- 📫 Reach me at **prajwalhere247@gmail.com**
+- 📫 Reach me at **hello.prajwal247@gmail.com**
 
-- 📄 Check out my <a href="https://github.com/PrajwalDhule/PrajwalDhule/blob/main/Resume_Prajwal_Dhule_Main_16th_May_23.pdf" target="blank">Resume</a>
-<br/>
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
 <p align="center">
