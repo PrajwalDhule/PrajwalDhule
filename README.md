@@ -2,14 +2,9 @@
 Prajwal Dhule</a></h1>
 <h3 align="center">A Meticulous Web Developer from Mumbai, India</h3>
 
-- I mostly work with Full-stack Web dev technologies with a frontend focus to create mesmerizing stuff on the internet.
+- I mostly work with Full-stack Web dev technologies with a frontend focus to create mesmerizing stuff on the internet. I also like to draw 🖌️ sometimes :)
 
-- I love working closely with CSS concepts.
-
-- Check out my <a target="_blank" href="https://prajwaldhule.netlify.app">Portfolio</a> and <a target="_blank" href="https://prajwaldhule.vercel.app/blog">Blog</a>.
-
-
-- 🖌️ I also love to draw :)
+- Check out my <a target="_blank" href="https://prajwaldhule.netlify.app">Portfolio</a> and <a target="_blank" href="https://prajwaldhule.vercel.app/blog">Blog</a>. 
 
 - 💬 Feel free to connect if you want to have any conversation.
 
